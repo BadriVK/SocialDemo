@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>main</key>
+<array>
+	<dict>
+		<key>product_id</key>
+			<string>com.findanyone.findanyoneapp.monthly</string>
+		<key>title</key>
+		<string>Join Now For Free</string>
+		<key>divide_value</key>
+		<integer>1</integer>
+	</dict>
+</array>
+<key>is_live</key>
+<true/>
+<key>force_show_launch</key>
+<true/>
+<key>dont_show_modal</key>
+<false/>
+<key>force_hide_ads</key>
+<false/>
+<key>show_cancel</key>
+<true/>
+<key>subtitle_text</key>
+<string>With this app you can view secret visitors of ANY user, find out who unfollowed or blocked you and many other hidden metrics that are not available on Instagram app for public use. Tap the button below to continue.</string>
+<key>fb_app_id</key>
+<string>1529358237135198</string>
+</dict>
+</plist>
