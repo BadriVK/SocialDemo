@@ -14,7 +14,7 @@
 	</dict>
 </array>
 <key>is_live</key>
-<true/>
+<false/>
 <key>force_show_launch</key>
 <true/>
 <key>dont_show_modal</key>
