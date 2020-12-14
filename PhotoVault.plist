@@ -9,7 +9,7 @@
 	<key>is_app_active</key>
 	<true/>
 	<key>app_bundle_id</key>
-	<string>com.photo.vault</string>
+	<string>app.calculator.vault</string>
 	<key>app_id</key>
 	<string>1528879092</string>
 </dict>
