@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Configuration</key>
+	<dict>
+		<key>is_ads_enabled</key>
+		<true/>
+		<key>is_app_active</key>
+		<true/>
+		<key>app_bundle_id</key>
+		<string>com.keep.followers</string>
+		<key>app_id</key>
+		<string>1530889596</string>
+	</dict>
+</dict>
+</plist>
