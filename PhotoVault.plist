@@ -5,7 +5,7 @@
 	<key>Configuration</key>
 	<dict>
 		<key>is_ads_enabled</key>
-		<false/>
+		<true/>
 		<key>is_app_active</key>
 		<true/>
 		<key>app_bundle_id</key>
